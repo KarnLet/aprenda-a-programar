@@ -1,4 +1,4 @@
-let Karen
-let karnleticia
-let Professora
+let Nome
+let Email
+let Profissão
 let Idade
