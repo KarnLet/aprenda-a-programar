@@ -1,8 +1,8 @@
-let multiplicador = 9
-let n = 9
+const multiplicador = 9
 let i = 1
 
-while (i <= n) {
-   console.log(´$(multiplicador)x $(i) = $(multiplicador)´)
-   i++
+while (i <= 10) {
+    const resultado = i*multiplicador
+    const valorExibido = `${multiplicador} X ${i} = ${resultado}`
+    console.log(valorExibido)
 }
